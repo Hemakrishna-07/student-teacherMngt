@@ -1,0 +1,16 @@
+.home, .std-db, .stf-db, .add-std, .add-stf, .edit-std {
+    margin: 0 3%;
+}
+h1 {
+    padding: 1rem 0;
+}
+.home-buttons {
+    display: flex;
+    flex-direction: column;
+    min-width: auto;
+    max-width: 250px;
+    /* margin: 0.5rem; */
+}
+#dashboard-button {
+    margin: 0.5rem 0;
+}
